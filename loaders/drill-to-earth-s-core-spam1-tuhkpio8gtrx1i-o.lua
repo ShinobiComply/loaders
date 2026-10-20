@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/drill-to-earth-s-core-spam1-tuhkpio8gtrx1i.lua"))()
