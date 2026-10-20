@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/it-wants-in-horror-spam7-mz09fpe9gqgucz.lua"))()
