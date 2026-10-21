@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/driving-empire-rp-servers-spam7-wibloil2iiao1z.lua"))()
