@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/1-speed-keyboard-escape-candy-chocolate-spam7-i8bjplu6hgpzi2.lua"))()
