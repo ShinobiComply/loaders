@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/1-2-player-grapple-cart-obby-spam1-bnp9o7ruhsri09.lua"))()
