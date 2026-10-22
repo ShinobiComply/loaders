@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/pet-store-tycoon-spam7-u5sqnupcjcy4o6.lua"))()
