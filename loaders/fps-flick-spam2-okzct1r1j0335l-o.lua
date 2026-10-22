@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/fps-flick-spam2-okzct1r1j0335l.lua"))()
