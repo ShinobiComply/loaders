@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/giant-simulator-reborn-spam5-53s7omd4l0yzmc.lua"))()
