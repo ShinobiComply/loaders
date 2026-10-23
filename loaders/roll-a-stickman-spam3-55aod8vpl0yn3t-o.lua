@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/roll-a-stickman-spam3-55aod8vpl0yn3t.lua"))()
