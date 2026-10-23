@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/prospecting-spam4-y9g4l1rmkyudhz.lua"))()
