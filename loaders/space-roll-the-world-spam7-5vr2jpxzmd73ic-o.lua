@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/space-roll-the-world-spam7-5vr2jpxzmd73ic.lua"))()
