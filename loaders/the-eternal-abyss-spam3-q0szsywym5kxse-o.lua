@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/the-eternal-abyss-spam3-q0szsywym5kxse.lua"))()
